@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+}
+
+.tem {
+    margin: 29px;
+}
+
+.container {
+    text-align: left;
+}
+
+/* Title */
+.container .title {
+    margin-bottom: 5vw;
+}
+
+.container .title .brand {
+    font-family: 'Medium';
+    font-size: 3.5vw;
+}
+
+.container .title .type {
+    font-family: 'SemiBoldItalic';
+    font-size: 9vw;
+}
+
+/* Image Head */
+.imgHead {
+    margin-bottom: 5vw;
+}
+
+.imgHead img {
+    width: 100%;
+}
+
+/* Sepc */
+.spec {
+    margin-bottom: 5vw;
+    font-size: 2.8vw;
+    background-color: black;
+    color: white;
+    padding: 5vw 5vw;
+    border-radius: 3vw;
+}
+
+.spec div {
+    display: flex;
+    margin-top: 5vw;
+    padding-bottom: 3vw;
+    border-bottom: 1px solid white;
+    margin-bottom: 7vw;
+}
+
+.spec div .lft {
+    font-family: "Semibold";
+    color: #F9D000;
+}
+
+.spec div .rght {
+    font-family: "Regular";
+    color: rgba(255, 255, 255, 0.7)
+}
+
+.spec .year {
+    gap: 29.5vw;
+}
+
+.spec .odo {
+    gap: 20.5vw;
+}
+
+.spec .color {
+    gap: 28vw;
+}
+
+/* Image */
+.image img {
+    width: 100%;
+    margin-top: 16px;
+}
