@@ -49,7 +49,7 @@
     margin-top: 5vw;
     padding-bottom: 3vw;
     border-bottom: 1px solid white;
-    margin-bottom: 7vw;
+    margin-bottom: 5vw;
 }
 
 .spec div .lft {
@@ -71,6 +71,10 @@
 }
 
 .spec .color {
+    gap: 28vw;
+}
+
+.spec .price {
     gap: 28vw;
 }
 

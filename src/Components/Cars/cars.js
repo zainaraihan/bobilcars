@@ -1,6 +1,16 @@
 import './cars.css'
 import {Routes, Route} from 'react-router-dom';
-import Tem from '../Tem/tem';
+import Piloti from '../Mobil/piloti';
+import Classic from '../Mobil/classic';
+import Dawn from '../Mobil/dawn';
+import Drophead from '../Mobil/drophead';
+import G80 from '../Mobil/G80';
+import G63 from '../Mobil/G63';
+import G400d from '../Mobil/G400d';
+import Huracan from '../Mobil/huracan';
+import M765lt from '../Mobil/m765lt';
+import Urus from '../Mobil/urus';
+
 const Cars = () => {
     return ( 
         <div className="cars">
@@ -9,16 +19,16 @@ const Cars = () => {
             </div>
             <Routes>
                 <Route path='' element=''/>
-                <Route path='/piloti' element={<Tem text={"piloti"}/>}/>
-                <Route path='/g400d' element={<Tem text={"g400d"}/>}/>
-                <Route path='/classic' element={<Tem text={"classic"}/>}/>
-                <Route path='/g63' element={<Tem text={"piloti"}/>}/>
-                <Route path='/765lt' element={<Tem text={"piloti"}/>}/>
-                <Route path='/dawn' element={<Tem text={"dawn"}/>}/>
-                <Route path='/drophead' element={<Tem text={"drophead"}/>}/>
-                <Route path='/huracan' element={<Tem text={"huracan"}/>}/>
-                <Route path='/g80' element={<Tem text={"g80"}/>}/>
-                <Route path='/urus' element={<Tem text={"urus"}/>}/>
+                <Route path='/piloti' element={<Piloti/>}/>
+                <Route path='/g400d' element={<G400d/>}/>
+                <Route path='/classic' element={<Classic/>}/>
+                <Route path='/m765lt' element={<M765lt/>}/>
+                <Route path='/dawn' element={<Dawn/>}/>
+                <Route path='/drophead' element={<Drophead/>}/>
+                <Route path='/huracan' element={<Huracan/>}/>
+                <Route path='/g80' element={<G80/>}/>
+                <Route path='/urus' element={<Urus/>}/>
+                <Route path='/g63' element={<G63/>}/>
             </Routes>
             <div className='footer'>
                 <p>© 2023 Bobil Indonesia. All Rights Reserved</p>
