@@ -79,3 +79,80 @@
     width: 100%;
     margin-top: 16px;
 }
+
+/* Options */
+.options {
+    margin: 8vw 0;
+    background-color: black;
+    border-radius: 3vw;
+    padding: 5vw;
+    font-size: 3.2vw;
+}
+
+.options p {
+    color: white;
+    font-family: 'Regular';
+}
+
+.options .head {
+    text-align: center;
+    font-size: 6vw;
+}
+
+.options .head p {
+    font-family: "SemiBold";
+    margin-top: 5vw;
+}
+
+
+.options .mrg {
+    margin-bottom: 10vw;
+}
+
+.options .paragraph {
+    color: white;
+}
+
+.options .paragraph .line {
+    border-bottom: 1px solid white;
+    margin-bottom: 7vw;
+}
+
+.options .paragraph .title {
+    margin-bottom: 10vw;
+}
+
+.options .paragraph .title>p {
+    font-size: 4vw;
+    color: #F9D000;
+    margin-bottom: 4vw;
+}
+
+.options .paragraph .title .text p {
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 2.5vw;
+}
+
+
+.options .phone a {
+    display: flex;
+    justify-content: center;
+    gap: 2vw;
+    align-items: center;
+    text-decoration: none;
+    background-color: #F9D000;
+    padding: 3vw;
+    border-radius: 2vw;
+    margin-bottom: -8vw;
+}
+
+.options .phone a img {
+    width: 5vw;
+    height: 5vw;
+}
+
+.options .phone a p {
+    font-size: 6vw;
+    color: black;
+    font-family: "SemiBold";
+}

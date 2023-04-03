@@ -40,10 +40,10 @@ const Tem = ({text}) => {
                     <img className='img6 list' src={p7} alt="" />
                 </div>
                 <div className='options'>
-                    <div className='title'>
-                    Specifications & Options
+                    <div className='mrg head'>
+                    <p>Specifications & Options</p>
                     </div>
-                    <div className='paragraph'>
+                    <div className='mrg paragraph'>
                         <div className='title interior'>
                             <p>Interior</p>
                             <div className='text'>
@@ -79,15 +79,12 @@ const Tem = ({text}) => {
                                 <p>0-100 Km/h in 2.85 Sec</p>
                             </div>
                         </div>  
-                        <div className='phone'>
-                            <div className='icon'>
-                                <a href="https://wa.me/6281230009889">
+                    </div>
+                    <div className='mrg phone'>
+                            <a href="https://wa.me/6281230009889">
                                     <img src="./icon.png" alt="" />
-                                <p>081230009889</p>
-                                </a>
-                                
-                            </div>
-                        </div>
+                                    <p>081230009889</p>
+                            </a>
                     </div>
                 </div>
             </div>
