@@ -1,13 +1,13 @@
 import Tes from '../Tes/tes';
 
 // Piloti
-import p1 from '../../Assets/g63/n1.png'
-import p2 from '../../Assets/g63/n2.png'
-import p3 from '../../Assets/g63/n3.png'
-import p4 from '../../Assets/g63/n4.png'
-import p5 from '../../Assets/g63/n5.png'
-import p6 from '../../Assets/g63/n6.png'
-import p7 from '../../Assets/g63/n7.png'
+import p1 from '../../Assets/g63/n1.jpeg'
+import p2 from '../../Assets/g63/n2.jpeg'
+import p3 from '../../Assets/g63/n3.jpeg'
+import p4 from '../../Assets/g63/n4.jpeg'
+import p5 from '../../Assets/g63/n5.jpeg'
+import p6 from '../../Assets/g63/n6.jpeg'
+import p7 from '../../Assets/g63/n7.jpeg'
 
 const int = <div className='text'>
                 <p>Black Race-Tex Leather Interior</p>
@@ -33,7 +33,11 @@ const ext = <div className='text'>
             </div>
 
 const eng = <div className='text'>
-                <p>-</p>
+                <p>3.0L Twin-Turbocharged Flat-6</p>
+                <p>480-Horsepower & 570-Nm of Torque</p>
+                <p>Top Speed of 311 Km/h</p>
+                <p>0-100 Km/h in 3.4 Sec</p>
+                
             </div>
 
 const G63 = () => {
