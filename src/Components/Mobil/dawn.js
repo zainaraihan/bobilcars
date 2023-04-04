@@ -1,39 +1,50 @@
 import Tes from '../Tes/tes';
 
 // Piloti
-import p1 from '../../Assets/piloti/p1.png'
-import p2 from '../../Assets/piloti/p2.png'
-import p3 from '../../Assets/piloti/p3.png'
-import p4 from '../../Assets/piloti/p4.png'
-import p5 from '../../Assets/piloti/p5.png'
-import p6 from '../../Assets/piloti/p6.png'
-import p7 from '../../Assets/piloti/p7.png'
+import p1 from '../../Assets/dawn/d1.png'
+import p2 from '../../Assets/dawn/d2.png'
+import p3 from '../../Assets/dawn/d3.png'
+import p4 from '../../Assets/dawn/d4.png'
+import p5 from '../../Assets/dawn/d5.png'
+import p6 from '../../Assets/dawn/d6.png'
+import p7 from '../../Assets/dawn/d7.png'
 
 const int = <div className='text'>
-                <p>Black Alcantara Interior w/ Red Stitching</p>
-                <p>Black Alcantara Headliner</p>
-                <p>Carbon Fibre Interior Trim Panel</p>
-                <p>Italian flag Graphics on Driver & Passenger Seat</p>
-                <p>Alcantara-Carbon Fibre Steering Wheel w/ Driving Mode Button</p>
-                <p>2-LCD Display Cluster</p>
-                <p>JBL Sound System</p>
+                <p>Mandarin Leather Interior</p>
+                <p>Black Headliner</p>
+                <p>Wood Grain Interior Trim Panel</p>
+                <p>Leather Steering Wheel</p>
+                <p>‘DAWN’ Analog Clock</p>
+                <p>2 LCD Monitors in Front</p>
+                <p>Rolls-Royce Bespoke Audio Systems</p>
+                <p>Center Console Controls</p>
+                <p>Power Front Seats w/ Lumbar Support</p>
+                <p>Power Rear Seats</p>
+                <p>Heated Front Seats</p>
+                <p>Front & Rear Center Armrest</p>
+                <p>Rolls Royce Monogram Embossed to Headrests</p>
+                <p>Rear A/C Ventilation w/ Fan Speed Controls</p>
             </div>
 
 const ext = <div className='text'>
-                <p>20” Black Forged Aluminium Wheels</p>
-                <p>2017 WEC GTE PRO Tribute Livery</p>
-                <p>New Improved Aerodynamics</p>
-                <p>‘Formula 1’ Inspired S-duct Aero System</p>
-                <p>‘488 GTE’ Inspired Diffuser & Front Flicks</p>
-                <p>New Bigger Rear Spoiler</p> 
+                <p>21” 10-Spokes Forged Wheels</p>
+                <p>Gold-Plated Spirit Of Ecstacy</p>
+                <p>Gold Front Grille</p>
+                <p>Orange Pinstripes</p>
+                <p>LED HeadLights w/ Adaptive & Self-Leveling</p>
+                <p>LED Daytime Running Light</p> 
+                <p>LED Tail Lights</p> 
+                <p>Auto-Latch Door</p> 
+                <p>Power Side Mirrors w/ Heater & Auto-Dimming</p> 
+                <p>Power Convertible Roof</p> 
+                <p>Chrome Tailpipe Finisher</p> 
             </div>
 
 const eng = <div className='text'>
-                <p>3.9L Twin-Turbocharged V8</p>
-                <p>710-Horsepower & 770-Nm of Torque</p>
-                <p>New Improved Aerodynamics</p>
-                <p>Top Speed of 340 Km/h</p>
-                <p>0-100 Km/h in 2.85 Sec</p>
+                <p>6.6L Twin-Turbocharged V12</p>
+                <p>563-Horsepower to 575-Nm of Torque</p>
+                <p>Top Speed of 250 Km/h</p>
+                <p>0-100 Km/h in 5.0 Sec</p>
             </div>
 
 const Dawn = () => {
@@ -43,10 +54,11 @@ const Dawn = () => {
                 brand={"Rolls-Royce"}
                 type={"Dawn"}
                 imgH={p1}
-                year={"2020"}
+                year={"2021"}
                 odo={"Delivery Mileage"}
-                color={"Argento Nurburging"}
-                img1={p1}
+                color={"Metropolitan Blue Colour"}
+                price={"Rp. 1.000.000.000"}
+                desc={"Built for reminiscing The Original 911 and The 911 Carrera RS 2.7, The 911 Sports Classic was built with a 6-speed manual transmission and the interior was extra special with Porsche Exclusive woven leather seats, door panels, and dashboard. The exterior color was unique also using a specially developed Sport Classic Grey body color."}
                 img2={p2}
                 img3={p3}
                 img4={p4}

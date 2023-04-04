@@ -10,30 +10,31 @@ import p6 from '../../Assets/piloti/p6.png'
 import p7 from '../../Assets/piloti/p7.png'
 
 const int = <div className='text'>
-                <p>Black Alcantara Interior w/ Red Stitching</p>
-                <p>Black Alcantara Headliner</p>
-                <p>Carbon Fibre Interior Trim Panel</p>
-                <p>Italian flag Graphics on Driver & Passenger Seat</p>
-                <p>Alcantara-Carbon Fibre Steering Wheel w/ Driving Mode Button</p>
-                <p>2-LCD Display Cluster</p>
-                <p>JBL Sound System</p>
+                <p>Creme Light Leather Interior</p>
+                <p>Wood Grain Interior Trim Panel</p>
+                <p>Leather Steering Wheel</p>
+                <p>Power Driver & Front Passenger Seats w/ Lumbar Support & Memory</p>
+                <p>Heated Driver & Front Passenger Seats</p>
+                <p>Premium Sound System</p>
+                <p>Multi-Zone A/C System</p>
             </div>
 
 const ext = <div className='text'>
-                <p>20” Black Forged Aluminium Wheels</p>
-                <p>2017 WEC GTE PRO Tribute Livery</p>
-                <p>New Improved Aerodynamics</p>
-                <p>‘Formula 1’ Inspired S-duct Aero System</p>
-                <p>‘488 GTE’ Inspired Diffuser & Front Flicks</p>
-                <p>New Bigger Rear Spoiler</p> 
+                <p>21” 7-Spoke Silver Alloy Wheels</p>
+                <p>Aluminium Front Window Trim</p>
+                <p>Aluminum Side Window Trim</p>
+                <p>Chrome Front Grille</p>
+                <p>Chrome Spirit Of Ecstacy</p>
+                <p>LED HeadLights w/ Daytime Running Lights & Self-Leveling</p> 
+                <p>Power Side Mirrors w/ Heater & Auto-Dimming</p> 
+                <p>Auto-Latch Doors</p> 
             </div>
 
 const eng = <div className='text'>
-                <p>3.9L Twin-Turbocharged V8</p>
-                <p>710-Horsepower & 770-Nm of Torque</p>
-                <p>New Improved Aerodynamics</p>
-                <p>Top Speed of 340 Km/h</p>
-                <p>0-100 Km/h in 2.85 Sec</p>
+                <p>6.8L Naturally-Aspirated V12</p>
+                <p>453-Horsepower & 531-Nm of Torque</p>
+                <p>Top Speed of 240 Km/h</p>
+                <p>0-100 Km/h in 5.9 Sec</p>
             </div>
 
 const Drophead = () => {
@@ -45,8 +46,9 @@ const Drophead = () => {
                 imgH={p1}
                 year={"2020"}
                 odo={"Delivery Mileage"}
-                color={"Argento Nurburging"}
-                img1={p1}
+                color={"Silverstone Colour"}
+                price={"Rp. 1.000.000.000"}
+                desc={"Built for reminiscing The Original 911 and The 911 Carrera RS 2.7, The 911 Sports Classic was built with a 6-speed manual transmission and the interior was extra special with Porsche Exclusive woven leather seats, door panels, and dashboard. The exterior color was unique also using a specially developed Sport Classic Grey body color."}
                 img2={p2}
                 img3={p3}
                 img4={p4}

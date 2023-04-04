@@ -17,6 +17,7 @@ const Tes = ({
     interior,
     exterior,
     engine,
+    desc
  }) => {
     return ( 
         <div className="tem">
@@ -54,6 +55,13 @@ const Tes = ({
                     <img className='img5 list' src={img5} alt="" />
                     <img className='img6 list' src={img6} alt="" />
                     <img className='img6 list' src={img7} alt="" />
+                </div>
+                <div className='descriptions'>
+                    <p>Descriptions</p>
+                    <div className='isi'>
+                        <div className='line'></div>
+                        <p>{desc}</p>
+                    </div>
                 </div>
                 <div className='options'>
                     <div className='mrg head'>

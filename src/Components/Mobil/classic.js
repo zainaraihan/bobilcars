@@ -1,39 +1,38 @@
 import Tes from '../Tes/tes';
 
 // Piloti
-import p1 from '../../Assets/piloti/p1.png'
-import p2 from '../../Assets/piloti/p2.png'
-import p3 from '../../Assets/piloti/p3.png'
-import p4 from '../../Assets/piloti/p4.png'
-import p5 from '../../Assets/piloti/p5.png'
-import p6 from '../../Assets/piloti/p6.png'
-import p7 from '../../Assets/piloti/p7.png'
+import p1 from '../../Assets/Classic/c1.png'
+import p2 from '../../Assets/Classic/c2.png'
+import p3 from '../../Assets/Classic/c3.png'
+import p4 from '../../Assets/Classic/c4.png'
+import p5 from '../../Assets/Classic/c5.png'
+import p6 from '../../Assets/Classic/c6.png'
+import p7 from '../../Assets/Classic/c7.png'
 
 const int = <div className='text'>
-                <p>Black Alcantara Interior w/ Red Stitching</p>
-                <p>Black Alcantara Headliner</p>
-                <p>Carbon Fibre Interior Trim Panel</p>
-                <p>Italian flag Graphics on Driver & Passenger Seat</p>
-                <p>Alcantara-Carbon Fibre Steering Wheel w/ Driving Mode Button</p>
-                <p>2-LCD Display Cluster</p>
-                <p>JBL Sound System</p>
+                <p>Black Heritage Design Classic Leather Interior</p>
+                <p>Black & White Diamond Pattern w/ Slanting Stripes</p>
+                <p>Black Headliner</p>
+                <p>Wood Interior Trim Panel</p>
+                <p>Sport Chrono Package</p>
+                <p>Leather Steering Wheel w/ Multi Function Button</p>
+                <p>18-Ways Power Driver & Front Passenger Seats w/ Memory Package</p>
+                <p>Limitation Number Plate</p>
             </div>
 
 const ext = <div className='text'>
-                <p>20” Black Forged Aluminium Wheels</p>
-                <p>2017 WEC GTE PRO Tribute Livery</p>
-                <p>New Improved Aerodynamics</p>
-                <p>‘Formula 1’ Inspired S-duct Aero System</p>
-                <p>‘488 GTE’ Inspired Diffuser & Front Flicks</p>
-                <p>New Bigger Rear Spoiler</p> 
+                <p>20”/21” Zoll Sport Classic Wheels</p>
+                <p>Sport Classic double Stripes Top Decal</p>
+                <p>Heritage Design Side Decal w/ Personal Start Number</p>
+                <p>Power Adjustable & Folding Side Mirrors</p>
+                <p>Ultra-Light Carbon Rear ‘Ducktail’ Spoiler (Painted)</p>
             </div>
 
 const eng = <div className='text'>
-                <p>3.9L Twin-Turbocharged V8</p>
-                <p>710-Horsepower & 770-Nm of Torque</p>
-                <p>New Improved Aerodynamics</p>
-                <p>Top Speed of 340 Km/h</p>
-                <p>0-100 Km/h in 2.85 Sec</p>
+                <p>3.8L Twin-Turbocharged Flat-6</p>
+                <p>550-Horsepower & 600-Nm of Torque</p>
+                <p>Top Speed of 315 Km/h</p>
+                <p>0-100 Km/h in 4.1 Sec</p>
             </div>
 
 const Classic = () => {
@@ -43,10 +42,11 @@ const Classic = () => {
                 brand={"Porsche"}
                 type={"911 Sport Classic"}
                 imgH={p1}
-                year={"2020"}
+                year={"2023"}
                 odo={"Delivery Mileage"}
-                color={"Argento Nurburging"}
-                img1={p1}
+                color={"Sport Grey Metallic Color"}
+                price={"Rp. 1.000.000.000"}
+                desc={"Built for reminiscing The Original 911 and The 911 Carrera RS 2.7, The 911 Sports Classic was built with a 6-speed manual transmission and the interior was extra special with Porsche Exclusive woven leather seats, door panels, and dashboard. The exterior color was unique also using a specially developed Sport Classic Grey body color."}
                 img2={p2}
                 img3={p3}
                 img4={p4}

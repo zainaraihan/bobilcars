@@ -1,5 +1,6 @@
 import './cars.css'
 import {Routes, Route} from 'react-router-dom';
+import Home from '../Home/home';
 import Piloti from '../Mobil/piloti';
 import Classic from '../Mobil/classic';
 import Dawn from '../Mobil/dawn';
@@ -18,7 +19,7 @@ const Cars = () => {
                 <img src="./logo.png" alt="" />
             </div>
             <Routes>
-                <Route path='' element=''/>
+                <Route path='/' element={<Home/>}/>
                 <Route path='/piloti' element={<Piloti/>}/>
                 <Route path='/g400d' element={<G400d/>}/>
                 <Route path='/classic' element={<Classic/>}/>

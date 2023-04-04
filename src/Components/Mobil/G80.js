@@ -1,39 +1,47 @@
 import Tes from '../Tes/tes';
 
 // Piloti
-import p1 from '../../Assets/piloti/p1.png'
-import p2 from '../../Assets/piloti/p2.png'
-import p3 from '../../Assets/piloti/p3.png'
-import p4 from '../../Assets/piloti/p4.png'
-import p5 from '../../Assets/piloti/p5.png'
-import p6 from '../../Assets/piloti/p6.png'
-import p7 from '../../Assets/piloti/p7.png'
+import p1 from '../../Assets/g80/g1.png'
+import p2 from '../../Assets/g80/g2.png'
+import p3 from '../../Assets/g80/g3.png'
+import p4 from '../../Assets/g80/g4.png'
+import p5 from '../../Assets/g80/g5.png'
+import p6 from '../../Assets/g80/g6.png'
+import p7 from '../../Assets/g80/g7.png'
 
 const int = <div className='text'>
-                <p>Black Alcantara Interior w/ Red Stitching</p>
-                <p>Black Alcantara Headliner</p>
-                <p>Carbon Fibre Interior Trim Panel</p>
-                <p>Italian flag Graphics on Driver & Passenger Seat</p>
-                <p>Alcantara-Carbon Fibre Steering Wheel w/ Driving Mode Button</p>
-                <p>2-LCD Display Cluster</p>
-                <p>JBL Sound System</p>
+                <p>Obsidian Black Interior</p>
+                <p>Creme Headliner</p>
+                <p>Nappa Leather Seats w/ Natural Dyes</p>
+                <p>Aluminium Interior Trimt</p>
+                <p>12-way Power-adjustable Driver Seat</p>
+                <p>Driver Seat Lumbar Support & Integrated Memory System</p>
+                <p>Front Seat Lumbar Support & Integrated Memory System</p>
+                <p>Front Seat Ventilation & Heater</p>
+                <p>Rear Seat Heater</p>
+                <p>Lexicon 17-Speaker System w/ Quantum Logic Surround Sound</p>
+                <p>14.5” Infotainment System</p>
+                <p>12-way Power-adjustable Front Seat</p>
+                <p>Genesis Connected Services</p>
+                <p>Genesis Car Pay</p>
+                <p>Valet Mode</p>
+                <p>Music Streaming Service</p>
+                <p>Active Road Noise Controlt</p>
+                <p>8” TFT LCD Cluster</p>
+                <p>Ambient Mood Lightning</p>
+                <p>Front Seat LED Foot Lights</p>
+                <p>Metal Door Scuff</p>
             </div>
 
 const ext = <div className='text'>
-                <p>20” Black Forged Aluminium Wheels</p>
-                <p>2017 WEC GTE PRO Tribute Livery</p>
-                <p>New Improved Aerodynamics</p>
-                <p>‘Formula 1’ Inspired S-duct Aero System</p>
-                <p>‘488 GTE’ Inspired Diffuser & Front Flicks</p>
-                <p>New Bigger Rear Spoiler</p> 
-            </div>
-
-const eng = <div className='text'>
-                <p>3.9L Twin-Turbocharged V8</p>
-                <p>710-Horsepower & 770-Nm of Torque</p>
-                <p>New Improved Aerodynamics</p>
-                <p>Top Speed of 340 Km/h</p>
-                <p>0-100 Km/h in 2.85 Sec</p>
+                <p>19” Turbine-Shaped Wheels</p>
+                <p>G-Matrix Patterned Grille</p>
+                <p>Full LED Headlights</p>
+                <p>Full Rear Combination Lights</p>
+                <p>Solar Panel Roof</p>
+                <p>Double-glazed Soundproof Glass (Front & All Doors)</p> 
+                <p>Solar Glass (Front, Rear, & All Windows)</p> 
+                <p>Rear Styling Cover</p> 
             </div>
 
 const G80 = () => {
@@ -41,12 +49,13 @@ const G80 = () => {
         <div className="G80">
             <Tes 
                 brand={"Genesis"}
-                type={"G80"}
+                type={"G80 Electrified SWB (Ex-G20)"}
                 imgH={p1}
-                year={"2020"}
+                year={"2022"}
                 odo={"Delivery Mileage"}
-                color={"Argento Nurburging"}
-                img1={p1}
+                color={"Vik Black Colour"}
+                price={"Rp 2.990.000.000"}
+                desc={"The G80 Electric comes with two permanent-magnet motors that combine to produce 365-Horsepower and 700-Nm of torque. That is 10 hp less than the twin-turbo V-6 from the G80 Sport, but a whopping additional 170-Nm. Power is delivered to all four wheels for standard AWD. That's good for a 0-100 Km/h time of 4.1 seconds."}
                 img2={p2}
                 img3={p3}
                 img4={p4}
@@ -55,7 +64,7 @@ const G80 = () => {
                 img7={p7}
                 interior = {int}
                 exterior = {ext}
-                engine = {eng}
+                engine = {"-"}
                 />
         </div>
      );

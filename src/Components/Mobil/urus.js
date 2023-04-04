@@ -1,39 +1,46 @@
 import Tes from '../Tes/tes';
 
 // Piloti
-import p1 from '../../Assets/piloti/p1.png'
-import p2 from '../../Assets/piloti/p2.png'
-import p3 from '../../Assets/piloti/p3.png'
-import p4 from '../../Assets/piloti/p4.png'
-import p5 from '../../Assets/piloti/p5.png'
-import p6 from '../../Assets/piloti/p6.png'
-import p7 from '../../Assets/piloti/p7.png'
+import p1 from '../../Assets/urus/u1.png'
+import p2 from '../../Assets/urus/u2.png'
+import p3 from '../../Assets/urus/u3.png'
+import p4 from '../../Assets/urus/u4.png'
+import p5 from '../../Assets/urus/u5.png'
+import p6 from '../../Assets/urus/u6.png'
+import p7 from '../../Assets/urus/u7.png'
 
 const int = <div className='text'>
-                <p>Black Alcantara Interior w/ Red Stitching</p>
-                <p>Black Alcantara Headliner</p>
-                <p>Carbon Fibre Interior Trim Panel</p>
-                <p>Italian flag Graphics on Driver & Passenger Seat</p>
-                <p>Alcantara-Carbon Fibre Steering Wheel w/ Driving Mode Button</p>
-                <p>2-LCD Display Cluster</p>
-                <p>JBL Sound System</p>
+                <p>Leather Interior</p>
+                <p>Aluminium Interior Trim Panel</p>
+                <p>Leather Steering Wheel w/ Multi Function Button & Paddle Shift</p>
+                <p>Power Driver & Front Passenger Seat w/ Lumbar Support, Memory, & Heater</p>
+                <p>Infotainment Touchscreen Display</p>
+                <p>Fully-Digital TFT Display Cluster</p>
+                <p>Multi Function Control Touchscreen</p>
+                <p>Driving Mode Center Console Controls</p>
+                <p>8-Speakers Sound System</p>
+                <p>Front Center Armrest</p>
+                <p>Aluminium Sill Guards</p>
+                <p>Rear & Side Windows Privacy Glass</p>
+                <p>Rear Loadspace Scuff Plate</p>
             </div>
 
 const ext = <div className='text'>
-                <p>20” Black Forged Aluminium Wheels</p>
-                <p>2017 WEC GTE PRO Tribute Livery</p>
-                <p>New Improved Aerodynamics</p>
-                <p>‘Formula 1’ Inspired S-duct Aero System</p>
-                <p>‘488 GTE’ Inspired Diffuser & Front Flicks</p>
-                <p>New Bigger Rear Spoiler</p> 
+                <p>22” Alloy Wheels</p>
+                <p>LED Adaptive HeadLight</p>
+                <p>LED Daytime Running Lights</p>
+                <p>LED Tail Lights</p>
+                <p>Power Adjustable & Folding Side Mirror w/ Heater, Dimming, & Kerb View</p>
+                <p>Surround Camera System</p> 
+                <p>Power Back Door</p> 
+                <p>Chrome Exhaust Tips</p> 
             </div>
 
 const eng = <div className='text'>
-                <p>3.9L Twin-Turbocharged V8</p>
-                <p>710-Horsepower & 770-Nm of Torque</p>
-                <p>New Improved Aerodynamics</p>
-                <p>Top Speed of 340 Km/h</p>
-                <p>0-100 Km/h in 2.85 Sec</p>
+                <p>4.0L Twin-Turbocharged V8</p>
+                <p>641-Horsepower & 850-Nm of Torque</p>
+                <p>Top Speed of 305 Km/h</p>
+                <p>0-100 Km/h in 3,5 Sec</p>
             </div>
 
 const Urus = () => {
@@ -43,11 +50,11 @@ const Urus = () => {
                 brand={"Lamborghini"}
                 type={"Urus"}
                 imgH={p1}
-                year={"2020"}
+                year={"2023"}
                 odo={"Delivery Mileage"}
-                color={"Argento Nurburging"}
+                color={"Yellow"}
                 price={"Rp. 1.000.000.000"}
-                img1={p1}
+                desc={"Lamborghini Urus is the second Sport Utility Vehicle (SUV) that Lamborghini made into production, after the V12-powered Lamborghini LM002. In four years of its production run, Lamborghini hit a major milestone with the Urus, producing 20,000 units, making the Urus the company's best-selling model in the shortest time."}
                 img2={p2}
                 img3={p3}
                 img4={p4}

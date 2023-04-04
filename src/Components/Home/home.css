@@ -1,0 +1,17 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    gap: 2vw;
+}
+
+.home a:hover {
+    padding: 0 3vw;
+}
+
+.home a {
+    transition: 0.5s ease;
+}
+
+.home a img {
+    width: 100%;
+}

@@ -81,7 +81,38 @@
 /* Image */
 .image img {
     width: 100%;
-    margin-top: 16px;
+    margin-top: 2.5vw;
+}
+
+/* Descriptions */
+.descriptions {
+    display: flex;
+    flex-direction: column;
+    gap: 4vw;
+    margin-top: 6vw;
+    background-color: #C7C7C7;
+    border-radius: 2vw;
+    padding: 4.5vw 4.5vw;
+}
+
+.descriptions .isi {
+    display: flex;
+    flex-direction: column;
+    gap: 4vw;
+}
+
+.descriptions .isi p {
+    color: #585858;
+}
+
+.descriptions .isi .line {
+    border-bottom: 1px solid #767676;
+}
+
+.descriptions>p {
+    text-align: center;
+    font-size: 6vw;
+    font-family: "SemiBold";
 }
 
 /* Options */

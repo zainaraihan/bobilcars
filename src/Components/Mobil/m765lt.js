@@ -1,39 +1,46 @@
 import Tes from '../Tes/tes';
 
 // Piloti
-import p1 from '../../Assets/piloti/p1.png'
-import p2 from '../../Assets/piloti/p2.png'
-import p3 from '../../Assets/piloti/p3.png'
-import p4 from '../../Assets/piloti/p4.png'
-import p5 from '../../Assets/piloti/p5.png'
-import p6 from '../../Assets/piloti/p6.png'
-import p7 from '../../Assets/piloti/p7.png'
+import p1 from '../../Assets/m765lt/m1.jpg'
+import p2 from '../../Assets/m765lt/m2.jpg'
+import p3 from '../../Assets/m765lt/m3.jpg'
+import p4 from '../../Assets/m765lt/m4.jpg'
+import p5 from '../../Assets/m765lt/m5.jpg'
+import p6 from '../../Assets/m765lt/m6.jpg'
+import p7 from '../../Assets/m765lt/m7.jpg'
 
 const int = <div className='text'>
-                <p>Black Alcantara Interior w/ Red Stitching</p>
-                <p>Black Alcantara Headliner</p>
-                <p>Carbon Fibre Interior Trim Panel</p>
-                <p>Italian flag Graphics on Driver & Passenger Seat</p>
-                <p>Alcantara-Carbon Fibre Steering Wheel w/ Driving Mode Button</p>
-                <p>2-LCD Display Cluster</p>
-                <p>JBL Sound System</p>
+                <p>Carbon Black Alcantara Interior</p>
+                <p>Carbon Black Alcantara Headliner</p>
+                <p>Carbon Black Alcantara Steering Wheel w/ Carbon Fibre Spokes</p>
+                <p>Carbon Fibre Seats</p>
+                <p>Carbon Fibre Door Panel</p>
+                <p>Carbon Fibre Center Console</p>
+                <p>8” Infotainment Screen w/ McLaren Information System & McLaren Track Telemetry</p>
+                <p>Digital Multi Information Display Cluster</p>
+                <p>Digital Race Cluster</p>
+
             </div>
 
 const ext = <div className='text'>
-                <p>20” Black Forged Aluminium Wheels</p>
-                <p>2017 WEC GTE PRO Tribute Livery</p>
-                <p>New Improved Aerodynamics</p>
-                <p>‘Formula 1’ Inspired S-duct Aero System</p>
-                <p>‘488 GTE’ Inspired Diffuser & Front Flicks</p>
-                <p>New Bigger Rear Spoiler</p> 
+                <p>19”/20” 10-Spoke Ultra-Lightweight Alloy Wheels</p>
+                <p>LT Carbon Fibre Front Splitter</p>
+                <p>LT Carbon Fibre Side Skirt</p>
+                <p>LT Carbon Fibre Rear Bumper Side Plate</p>
+                <p>LT Carbon Fibre Rear Diffuser</p>
+                <p>LT Rear Active Spoiler w/ Drag Reduction System (DRS)</p> 
+                <p>Full LED Headlights w/ Static Adaptive Functionality & Rain-Light Sensor</p> 
+                <p>Automatic LED Daytime Running Light</p> 
+                <p>Automatic LED Tail Lights</p> 
+                <p>Power Adjustment & Folding Side Mirrors w/ Dip in Reverse Functionality</p> 
+                <p>Quad-Center Exhaust System</p> 
             </div>
 
 const eng = <div className='text'>
-                <p>3.9L Twin-Turbocharged V8</p>
-                <p>710-Horsepower & 770-Nm of Torque</p>
-                <p>New Improved Aerodynamics</p>
-                <p>Top Speed of 340 Km/h</p>
-                <p>0-100 Km/h in 2.85 Sec</p>
+                <p>4.0L Twin-Turbocharged V8</p>
+                <p>765-Horsepower to 800-Nm of Torque</p>
+                <p>Top Speed of 330 Km/h</p>
+                <p>0-100 Km/h in 2.8 Sec</p>
             </div>
 
 const M765lt = () => {
@@ -43,10 +50,11 @@ const M765lt = () => {
                 brand={"Mclaren"}
                 type={"765LT"}
                 imgH={p1}
-                year={"2020"}
+                year={"2022"}
                 odo={"Delivery Mileage"}
-                color={"Argento Nurburging"}
-                img1={p1}
+                color={"Vega Blue Colour"}
+                price={"Rp. 1.000.000.000"}
+                desc={"The McLaren 765LT is a supercar that makes track performance a priority, by improving the aerodynamics to increase downforce, more Carbon Fibre parts to reduce weight, and Formula 1 inspired braking system. Also, by letting most creatures comfort stuff to the side."}
                 img2={p2}
                 img3={p3}
                 img4={p4}

@@ -1,39 +1,41 @@
 import Tes from '../Tes/tes';
 
 // Piloti
-import p1 from '../../Assets/piloti/p1.png'
-import p2 from '../../Assets/piloti/p2.png'
-import p3 from '../../Assets/piloti/p3.png'
-import p4 from '../../Assets/piloti/p4.png'
-import p5 from '../../Assets/piloti/p5.png'
-import p6 from '../../Assets/piloti/p6.png'
-import p7 from '../../Assets/piloti/p7.png'
+import p1 from '../../Assets/huracan/h1.png'
+import p2 from '../../Assets/huracan/h2.png'
+import p3 from '../../Assets/huracan/h3.png'
+import p4 from '../../Assets/huracan/h4.png'
+import p5 from '../../Assets/huracan/h5.png'
+import p6 from '../../Assets/huracan/h6.png'
+import p7 from '../../Assets/huracan/h7.png'
 
 const int = <div className='text'>
-                <p>Black Alcantara Interior w/ Red Stitching</p>
-                <p>Black Alcantara Headliner</p>
-                <p>Carbon Fibre Interior Trim Panel</p>
-                <p>Italian flag Graphics on Driver & Passenger Seat</p>
-                <p>Alcantara-Carbon Fibre Steering Wheel w/ Driving Mode Button</p>
-                <p>2-LCD Display Cluster</p>
-                <p>JBL Sound System</p>
+                <p>Nero Cosmus Alcantara Interior w/ Verde Fauns Green Accent & Stitching</p>
+                <p>Nero Cosmus Alcantara Headliner</p>
+                <p>Verde Fauns Green Leather Interior Trim Panel</p>
+                <p>Alcantara Steering Wheel w/ Multi Function Button & Bright Green Center Ring</p>
+                <p>Human Machine Interface (HMI) Touchscreen Center Console Controls</p>
+                <p>Fully-Digital TFT Display Cluster</p>
             </div>
 
 const ext = <div className='text'>
-                <p>20” Black Forged Aluminium Wheels</p>
-                <p>2017 WEC GTE PRO Tribute Livery</p>
-                <p>New Improved Aerodynamics</p>
-                <p>‘Formula 1’ Inspired S-duct Aero System</p>
-                <p>‘488 GTE’ Inspired Diffuser & Front Flicks</p>
-                <p>New Bigger Rear Spoiler</p> 
+                <p>20” OEM Lamborghini Huracan STO Alloy Wheels</p>
+                <p>STO Aero Package</p>
+                <p>STO Front End (Bumper, Hood, & Fenders)</p>
+                <p>STO Side Skirts</p>
+                <p>STO Rear Bumper & Diffuser</p>
+                <p>STO Engine Air Scoopr</p> 
+                <p>STO Rear Spoiler</p> 
+                <p>Lightweight Carbon Fiber Door</p> 
+                <p>Verde Fauns Brake Caliper</p> 
+                <p>Verde Fauns ‘STO’ Surround Decal</p> 
             </div>
 
 const eng = <div className='text'>
-                <p>3.9L Twin-Turbocharged V8</p>
-                <p>710-Horsepower & 770-Nm of Torque</p>
-                <p>New Improved Aerodynamics</p>
-                <p>Top Speed of 340 Km/h</p>
-                <p>0-100 Km/h in 2.85 Sec</p>
+                <p>5.2L Naturally-Aspirated V10</p>
+                <p>640-Horsepower & 565-Nm of Torque</p>
+                <p>Top Speed of 310 Km/h</p>
+                <p>0-100 Km/h in 3.0 Sec</p>
             </div>
 
 const Huracan = () => {
@@ -41,12 +43,13 @@ const Huracan = () => {
         <div className="Huracan">
             <Tes 
                 brand={"Lamborghini"}
-                type={"Huracan"}
+                type={"Huracan STO"}
                 imgH={p1}
-                year={"2020"}
+                year={"2023"}
                 odo={"Delivery Mileage"}
-                color={"Argento Nurburging"}
-                img1={p1}
+                color={"Nero Noctics Colour"}
+                price={"Rp. 1.000.000.000"}
+                desc={"Huracán STO (Super Trofeo Omologata) Is a road-homologated super sports car inspired by Lamborghini race cars: the Huracán EVO Super Trofeo developed by Lamborghini Squadra Corsa for Lamborghini’s own race series, as well as the Huracán EVO GT3, three-time winner of the 24 Hours of Daytona and two-time winner of the 12 Hours of Sebring. "}
                 img2={p2}
                 img3={p3}
                 img4={p4}
