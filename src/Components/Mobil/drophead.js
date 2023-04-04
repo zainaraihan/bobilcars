@@ -48,7 +48,7 @@ const Drophead = () => {
                 odo={"Delivery Mileage"}
                 color={"Silverstone Colour"}
                 price={"Rp. 1.000.000.000"}
-                desc={"Built for reminiscing The Original 911 and The 911 Carrera RS 2.7, The 911 Sports Classic was built with a 6-speed manual transmission and the interior was extra special with Porsche Exclusive woven leather seats, door panels, and dashboard. The exterior color was unique also using a specially developed Sport Classic Grey body color."}
+                desc={"-"}
                 img2={p2}
                 img3={p3}
                 img4={p4}

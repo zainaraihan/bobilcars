@@ -3,7 +3,6 @@ import p2 from '../../Assets/g400d/g1.png'
 import p3 from '../../Assets/dawn/d1.png'
 import p4 from '../../Assets/g63/n1.png'
 import p5 from '../../Assets/g80/g1.png'
-import p6 from '../../Assets/g400d/g1.png'
 import p7 from '../../Assets/huracan/h1.png'
 import p8 from '../../Assets/m765lt/m1.jpg'
 import p9 from '../../Assets/piloti/p1.png'
@@ -26,9 +25,6 @@ const Home = () => {
             </a>
             <a href="/g80">
                 <img src={p5} alt="" />
-            </a>
-            <a href="/g400d">
-                <img src={p6} alt="" />
             </a>
             <a href="/huracan">
                 <img src={p7} alt="" />

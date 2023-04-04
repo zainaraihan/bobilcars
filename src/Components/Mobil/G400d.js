@@ -49,7 +49,7 @@ const G400d = () => {
                 odo={"Delivery Mileage"}
                 color={"Obsidian Black Metallic Colour"}
                 price={"Rp. 1.000.000.000"}
-                desc={"Built for reminiscing The Original 911 and The 911 Carrera RS 2.7, The 911 Sports Classic was built with a 6-speed manual transmission and the interior was extra special with Porsche Exclusive woven leather seats, door panels, and dashboard. The exterior color was unique also using a specially developed Sport Classic Grey body color."}
+                desc={"Launched in 2018, the present Mercedes-Benz G-Class is an obsessively crafted rework of the G-wagen originally designed in the 1970s as a go-anywhere 4x4 workhorse for the military and farmers. It has a new chassis with independent front suspension, the latest-spec Mercedes engines and transmissions, a completely redesigned body, and a leather-wrapped interior with screens and all the connectivity you expect in a 21st-century automobile."}
                 img2={p2}
                 img3={p3}
                 img4={p4}
