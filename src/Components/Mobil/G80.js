@@ -72,7 +72,7 @@ const G80 = () => {
                 img7={p7}
                 interior = {int}
                 exterior = {ext}
-                engine = {"-"}
+                engine = {eng}
                 />
         </div>
      );
