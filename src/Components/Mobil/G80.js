@@ -62,7 +62,7 @@ const G80 = () => {
                 year={"2022"}
                 odo={"Delivery Mileage"}
                 color={"Vik Black Colour"}
-                price={"Rp 2.990.000.000"}
+                price={"Rp 2.550.000.000"}
                 desc={"The G80 Electric comes with two permanent-magnet motors that combine to produce 365-Horsepower and 700-Nm of torque. That is 10 hp less than the twin-turbo V-6 from the G80 Sport, but a whopping additional 170-Nm. Power is delivered to all four wheels for standard AWD. That's good for a 0-100 Km/h time of 4.1 seconds."}
                 img2={p2}
                 img3={p3}
