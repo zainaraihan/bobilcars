@@ -1,13 +1,13 @@
 import Tes from '../Tes/tes';
 
 // Piloti
-import p1 from '../../Assets/m765lt/m1.jpg'
-import p2 from '../../Assets/m765lt/m2.jpg'
-import p3 from '../../Assets/m765lt/m3.jpg'
-import p4 from '../../Assets/m765lt/m4.jpg'
-import p5 from '../../Assets/m765lt/m5.jpg'
-import p6 from '../../Assets/m765lt/m6.jpg'
-import p7 from '../../Assets/m765lt/m7.jpg'
+import p1 from '../../Assets/m765lt/m1.png'
+import p2 from '../../Assets/m765lt/m2.png'
+import p3 from '../../Assets/m765lt/m3.png'
+import p4 from '../../Assets/m765lt/m4.png'
+import p5 from '../../Assets/m765lt/m5.png'
+import p6 from '../../Assets/m765lt/m6.png'
+import p7 from '../../Assets/m765lt/m7.png'
 
 const int = <div className='text'>
                 <p>Carbon Black Alcantara Interior</p>

@@ -4,9 +4,10 @@ import p3 from '../../Assets/dawn/d1.png'
 import p4 from '../../Assets/g63/n1.jpeg'
 import p5 from '../../Assets/g80/g1.png'
 import p7 from '../../Assets/huracan/h1.png'
-import p8 from '../../Assets/m765lt/m1.jpg'
+import p8 from '../../Assets/m765lt/m1.png'
 import p9 from '../../Assets/piloti/p1.png'
 import p10 from '../../Assets/urus/u1.png'
+import p6 from '../../Assets/piloti/p1.png'
 import './home.css'
 const Home = () => {
     return ( 
@@ -25,6 +26,9 @@ const Home = () => {
             </a>
             <a href="/g80">
                 <img src={p5} alt="" />
+            </a>
+            <a href="/drophead">
+                <img src={p6} alt="" />
             </a>
             <a href="/huracan">
                 <img src={p7} alt="" />

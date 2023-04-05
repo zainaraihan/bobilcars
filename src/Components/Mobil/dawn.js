@@ -54,7 +54,7 @@ const Dawn = () => {
                 brand={"Rolls-Royce"}
                 type={"Dawn"}
                 imgH={p1}
-                year={"2021"}
+                year={"2016"}
                 odo={"Delivery Mileage"}
                 color={"Metropolitan Blue Colour"}
                 price={"Rp. 1.000.000.000"}

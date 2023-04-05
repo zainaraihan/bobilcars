@@ -1,13 +1,13 @@
 import Tes from '../Tes/tes';
 
 // Piloti
-import p1 from '../../Assets/pista/p1.png'
-import p2 from '../../Assets/pista/p2.png'
-import p3 from '../../Assets/pista/p3.png'
-import p4 from '../../Assets/pista/p4.png'
-import p5 from '../../Assets/pista/p5.png'
-import p6 from '../../Assets/pista/p6.png'
-import p7 from '../../Assets/pista/p7.png'
+import p1 from '../../Assets/piloti/p1.png'
+import p2 from '../../Assets/piloti/p2.png'
+import p3 from '../../Assets/piloti/p3.png'
+import p4 from '../../Assets/piloti/p4.png'
+import p5 from '../../Assets/piloti/p5.png'
+import p6 from '../../Assets/piloti/p6.png'
+import p7 from '../../Assets/piloti/p7.png'
 
 const int = <div className='text'>
                 <p>Black Alcantara Interior</p>
@@ -42,10 +42,10 @@ const Piloti = () => {
                 brand={"Ferrari"}
                 type={"488 Pista Taylor Made"}
                 imgH={p1}
-                year={"2020"}
+                year={"2021"}
                 odo={"Delivery Mileage"}
                 color={"Dark Green Colour"}
-                price={"Rp. 1.000.000.000"}
+                price={"-"}
                 desc={"In 2011, Ferrari established its Tailor Made program, allowing its customers to work with the carmaker’s designers to create their dream exterior and interior configurations."}
                 img2={p2}
                 img3={p3}

@@ -44,6 +44,14 @@ const ext = <div className='text'>
                 <p>Rear Styling Cover</p> 
             </div>
 
+const eng = <div className='text'>
+                <p>Two Electric Motors (AWD)</p>
+                <p>Lithium-Ion Battery</p>
+                <p>Range of 520 Km</p>
+                <p>365-Horsepower and 700-Nm of Torque</p>
+                <p>0-100 Km/h in 4.1 Sec</p>
+            </div>
+
 const G80 = () => {
     return ( 
         <div className="G80">

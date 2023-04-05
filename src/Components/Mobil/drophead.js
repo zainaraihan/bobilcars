@@ -44,7 +44,7 @@ const Drophead = () => {
                 brand={"Rolls-Royce"}
                 type={"Drophead"}
                 imgH={p1}
-                year={"2020"}
+                year={"2013"}
                 odo={"Delivery Mileage"}
                 color={"Silverstone Colour"}
                 price={"Rp. 1.000.000.000"}
