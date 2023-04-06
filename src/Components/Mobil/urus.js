@@ -10,37 +10,34 @@ import p6 from '../../Assets/urus/u6.png'
 import p7 from '../../Assets/urus/u7.png'
 
 const int = <div className='text'>
-                <p>Leather Interior</p>
-                <p>Aluminium Interior Trim Panel</p>
-                <p>Leather Steering Wheel w/ Multi Function Button & Paddle Shift</p>
-                <p>Power Driver & Front Passenger Seat w/ Lumbar Support, Memory, & Heater</p>
-                <p>Infotainment Touchscreen Display</p>
-                <p>Fully-Digital TFT Display Cluster</p>
-                <p>Multi Function Control Touchscreen</p>
-                <p>Driving Mode Center Console Controls</p>
-                <p>8-Speakers Sound System</p>
-                <p>Front Center Armrest</p>
-                <p>Aluminium Sill Guards</p>
-                <p>Rear & Side Windows Privacy Glass</p>
-                <p>Rear Loadspace Scuff Plate</p>
+                <p>Black Leather Interior</p>
+                <p>Wood-Silver Dashboard Panel</p>
+                <p>Leather Steering Wheel w/ Multi Function Button</p>
+                <p>15” Touchscreen for Media, Navigation, Controls, & Climate</p>
+                <p>Premium Center Console w/ Wireless Charging</p>
+                <p>Power Driver & Front Passenger Seats</p>
+                <p>Front & Rear Seat Heater</p>
+                <p>Front Armrest</p>
+                <p>Premium Audio System w/ 14-Speakers, Subwoofer, & Dual Amplifiers</p>
             </div>
 
 const ext = <div className='text'>
-                <p>22” Alloy Wheels</p>
-                <p>LED Adaptive HeadLight</p>
-                <p>LED Daytime Running Lights</p>
+                <p>20” Tesla Model 3 Alloy Wheels</p>
+                <p>Glass Roof</p>
+                <p>Power Adjustable & Folding Side Mirrors w/ Auto-Dimming</p>
+                <p>LED Head Light w/ Daytime Running Light</p>
                 <p>LED Tail Lights</p>
-                <p>Power Adjustable & Folding Side Mirror w/ Heater, Dimming, & Kerb View</p>
-                <p>Surround Camera System</p> 
-                <p>Power Back Door</p> 
-                <p>Chrome Exhaust Tips</p> 
+                <p>Rear Carbon Fibre Lip Spoiler</p> 
+                <p>360 Camera</p> 
             </div>
 
 const eng = <div className='text'>
-                <p>4.0L Twin-Turbocharged V8</p>
-                <p>641-Horsepower & 850-Nm of Torque</p>
-                <p>Top Speed of 305 Km/h</p>
+                <p>Two Electric Motor (AWD)</p>
+                <p>Lithium-ion</p>
+                <p>522-Horsepower & 640-Nm of Torque</p>
                 <p>0-100 Km/h in 3,5 Sec</p>
+                <p>Top Speed of 260 Km/h</p>
+                <p>0-100 Km/h in 3.9 sec</p>
             </div>
 
 const Urus = () => {
