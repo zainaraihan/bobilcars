@@ -48,7 +48,7 @@ const G400d = () => {
                 year={"2023"}
                 odo={"Delivery Mileage"}
                 color={"Obsidian Black Metallic Colour"}
-                price={"Rp 5.250.000.000 (On)"}
+                price={"Rp 5.250.000.000 (OTR)"}
                 desc={"Launched in 2018, the present Mercedes-Benz G-Class is an obsessively crafted rework of the G-wagen originally designed in the 1970s as a go-anywhere 4x4 workhorse for the military and farmers. It has a new chassis with independent front suspension, the latest-spec Mercedes engines and transmissions, a completely redesigned body, and a leather-wrapped interior with screens and all the connectivity you expect in a 21st-century automobile."}
                 img2={p2}
                 img3={p3}

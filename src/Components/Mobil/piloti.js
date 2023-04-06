@@ -45,7 +45,7 @@ const Piloti = () => {
                 year={"2021"}
                 odo={"Delivery Mileage"}
                 color={"Verde Scuro"}
-                price={"Rp 17.000.000.000 (On)"}
+                price={"Rp 17.000.000.000 (OTR)"}
                 desc={"In 2011, Ferrari established its Tailor Made program, allowing its customers to work with the carmaker’s designers to create their dream exterior and interior configurations."}
                 img2={p2}
                 img3={p3}
