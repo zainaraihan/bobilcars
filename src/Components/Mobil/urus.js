@@ -47,14 +47,14 @@ const Urus = () => {
     return ( 
         <div className="Urus">
             <Tes 
-                brand={"Lamborghini"}
-                type={"Urus"}
+                brand={"Tesla"}
+                type={"Model 3"}
                 imgH={p1}
                 year={"2023"}
                 odo={"Delivery Mileage"}
-                color={"Yellow"}
-                price={"Rp. 1.000.000.000"}
-                desc={"Lamborghini Urus is the second Sport Utility Vehicle (SUV) that Lamborghini made into production, after the V12-powered Lamborghini LM002. In four years of its production run, Lamborghini hit a major milestone with the Urus, producing 20,000 units, making the Urus the company's best-selling model in the shortest time."}
+                color={"Black Colour"}
+                price={"Rp. -"}
+                desc={"The Model 3 was marketed as being a more affordable option to more people than Tesla previous models. Since early 2020, the Model 3 is the best selling electric car in world history, and in June 2021, became the first electric car to pass the 1 million global sales milestone."}
                 img2={p2}
                 img3={p3}
                 img4={p4}
