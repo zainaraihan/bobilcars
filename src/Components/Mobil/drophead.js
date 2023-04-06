@@ -47,7 +47,7 @@ const Drophead = () => {
                 year={"2013"}
                 odo={"Delivery Mileage"}
                 color={"Silverstone Colour"}
-                price={"Rp. 17.500.000.000"}
+                price={"Rp 17.500.000.000 (on)"}
                 desc={"-"}
                 img2={p2}
                 img3={p3}
