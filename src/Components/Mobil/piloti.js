@@ -40,7 +40,7 @@ const Piloti = () => {
         <div className="piloti">
             <Tes 
                 brand={"Ferrari"}
-                type={"488 Pista Taylor Made"}
+                type={"488 Pista Tailor Made"}
                 imgH={p1}
                 year={"2021"}
                 odo={"Delivery Mileage"}
