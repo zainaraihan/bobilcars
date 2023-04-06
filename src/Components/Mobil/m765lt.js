@@ -53,7 +53,7 @@ const M765lt = () => {
                 year={"2022"}
                 odo={"Delivery Mileage"}
                 color={"Vega Blue Colour"}
-                price={"Rp. 1.000.000.000"}
+                price={"Rp. 14.500.000.000"}
                 desc={"The McLaren 765LT is a supercar that makes track performance a priority, by improving the aerodynamics to increase downforce, more Carbon Fibre parts to reduce weight, and Formula 1 inspired braking system. Also, by letting most creatures comfort stuff to the side."}
                 img2={p2}
                 img3={p3}

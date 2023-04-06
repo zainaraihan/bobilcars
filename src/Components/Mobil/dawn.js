@@ -57,7 +57,7 @@ const Dawn = () => {
                 year={"2016"}
                 odo={"Delivery Mileage"}
                 color={"Metropolitan Blue Colour"}
-                price={"Rp. 1.000.000.000"}
+                price={"Rp. 13.500.000.000"}
                 desc={"-"}
                 img2={p2}
                 img3={p3}

@@ -50,7 +50,7 @@ const G63 = () => {
                 year={"2023"}
                 odo={"Delivery Mileage"}
                 color={"Shark Blue Colour"}
-                price={"Rp. 1.000.000.000"}
+                price={"Rp. -"}
                 desc={"-"}
                 img2={p2}
                 img3={p3}
