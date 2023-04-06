@@ -50,7 +50,7 @@ const Urus = () => {
                 year={"2023"}
                 odo={"Delivery Mileage"}
                 color={"Black Colour"}
-                price={"Rp. -"}
+                price={"Rp 1.900.000.000"}
                 desc={"The Model 3 was marketed as being a more affordable option to more people than Tesla previous models. Since early 2020, the Model 3 is the best selling electric car in world history, and in June 2021, became the first electric car to pass the 1 million global sales milestone."}
                 img2={p2}
                 img3={p3}

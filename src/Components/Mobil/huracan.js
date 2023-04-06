@@ -48,7 +48,7 @@ const Huracan = () => {
                 year={"2023"}
                 odo={"Delivery Mileage"}
                 color={"Nero Noctics Colour"}
-                price={"Rp. 14.500.000.000"}
+                price={"Rp 14.500.000.000"}
                 desc={"Huracán STO (Super Trofeo Omologata) Is a road-homologated super sports car inspired by Lamborghini race cars: the Huracán EVO Super Trofeo developed by Lamborghini Squadra Corsa for Lamborghini’s own race series, as well as the Huracán EVO GT3, three-time winner of the 24 Hours of Daytona and two-time winner of the 12 Hours of Sebring. "}
                 img2={p2}
                 img3={p3}
