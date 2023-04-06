@@ -1,13 +1,13 @@
 import Tes from '../Tes/tes';
 
 // Piloti
-import p1 from '../../Assets/piloti/p1.png'
-import p2 from '../../Assets/piloti/p2.png'
-import p3 from '../../Assets/piloti/p3.png'
-import p4 from '../../Assets/piloti/p4.png'
-import p5 from '../../Assets/piloti/p5.png'
-import p6 from '../../Assets/piloti/p6.png'
-import p7 from '../../Assets/piloti/p7.png'
+import p1 from '../../Assets/dropohead/d1.png'
+import p2 from '../../Assets/dropohead/p2.png'
+import p3 from '../../Assets/dropohead/dp3.png'
+import p4 from '../../Assets/dropohead/d4.png'
+import p5 from '../../Assets/dropohead/d5.png'
+import p6 from '../../Assets/dropohead/d6.png'
+import p7 from '../../Assets/dropohead/dp7.png'
 
 const int = <div className='text'>
                 <p>Creme Light Leather Interior</p>
