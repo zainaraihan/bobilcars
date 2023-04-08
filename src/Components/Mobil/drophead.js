@@ -48,7 +48,7 @@ const Drophead = () => {
                 odo={"Delivery Mileage"}
                 color={"Silverstone Colour"}
                 price={"Rp 17.500.000.000 (OTR)"}
-                desc={"-"}
+                desc={"Rolls-Royce Drophead is a unique car to have, somehow looks better when sitting in water. Because the design reminds most people of a Luxury Yacht, complete with decking, that’s why some people called it a “Land-Yacht”."}
                 img2={p2}
                 img3={p3}
                 img4={p4}

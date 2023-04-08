@@ -58,7 +58,7 @@ const Dawn = () => {
                 odo={"Delivery Mileage"}
                 color={"Metropolitan Blue Colour"}
                 price={"Rp 13.500.000.000 (OTR)"}
-                desc={"-"}
+                desc={"Rolls-Royce Dawn is named after the ultra-rare 1950s Silver Dawn. 80% of the body panels are unique compared to the hard top version, Rolls-Royce Wraith, even the tyres are bespoke or specially made."}
                 img2={p2}
                 img3={p3}
                 img4={p4}

@@ -51,7 +51,7 @@ const G63 = () => {
                 odo={"Delivery Mileage"}
                 color={"Shark Blue Colour"}
                 price={"Rp 6.000.000.000 (OTR)"}
-                desc={"-"}
+                desc={"Porsche Carrera GTS offer responsive, agile, communicative, engaging, authentic, organic and fun driving. Making some called it “The Best 911” currently available, also it available with manual transmission option, perfect for purist out there,"}
                 img2={p2}
                 img3={p3}
                 img4={p4}
